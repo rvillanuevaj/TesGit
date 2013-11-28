@@ -1,5 +1,5 @@
 feature branch
 feature a
 feature b
-
 feature d
+feature c
