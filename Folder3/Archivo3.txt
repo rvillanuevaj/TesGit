@@ -5,3 +5,6 @@ other change feature 1
 
 change feature 3
 change from feature  branch
+
+
+change from feature branch 2
