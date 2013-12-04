@@ -2,3 +2,5 @@ Archivo3.txt
 change feature machine 2
 change feature machine 1
 other change feature 1
+
+change feature 3
