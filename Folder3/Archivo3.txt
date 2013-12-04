@@ -4,3 +4,4 @@ change feature machine 1
 other change feature 1
 
 change feature 3
+change from feature  branch
