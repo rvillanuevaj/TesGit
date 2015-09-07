@@ -4,3 +4,5 @@ prueba fork 2
 cambio  desde fork .
 Añadiendo Cambio .
 editando el archivo nuevamente
+editando el ar::
+Edición concurrente. 
